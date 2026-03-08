@@ -71,6 +71,43 @@ The core promise is:
 - candidates get a serious, structured application experience
 - Julien gets explainable scoring, evidence snippets, and interview prompts instead of pure vibes
 
+### 2.5. External conversation context that sharpens the tool
+
+The shared Perplexity conversation adds useful background to how this tool was conceived.
+
+Most important additions:
+
+- the true bottleneck was framed as **team formation, not funding**
+- Julien explicitly wanted to move away from **trying to convince friends** and toward attracting **smart strangers**
+- the tool was imagined not as recruiting software, but as a way to create a **serious inbound cofounder-selection process**
+- transparency about Julien's strengths and weaknesses was part of the design from the start:
+  - he brings operator credibility, runway, willingness to be CEO, and real business execution
+  - he does **not** bring deep coding skill and needs a pragmatic builder counterpart
+- the tool itself was also meant to function as a **proof-of-concept** that AI + no-code can ship something real quickly
+
+The conversation also reinforces the early persona split:
+
+- **Primary:** technical cofounder / pragmatic builder
+- **Secondary:** community architect / ops person
+
+That distinction matters because it suggests the v1 tool may not want to treat both tracks as equally important from day one.
+
+Another useful thread from that conversation is psychological, not technical:
+
+- one founder risk is using friends as a safety mechanism
+- another is avoiding strangers because rejection feels embarrassing
+
+That means the product is doing more than collecting applications.
+It is also changing the founder's behavior from:
+
+- persuasive outreach to friends
+
+into:
+
+- selective attraction of strong strangers
+
+This is a real design constraint and should influence success criteria.
+
 ### 3. Supporting scaffolding exists, but most of it is placeholder-only
 
 Supporting files already exist in the right folders, but most are still TODO stubs:
@@ -317,6 +354,20 @@ The spec is strongest when it feels:
 
 If the copy becomes polished-but-generic, it will lose the project's edge.
 
+### 7. The tool has a founder-psychology job, not just a candidate-evaluation job
+
+The external conversation makes this clearer than the current repo docs do.
+
+The tool is partly a system for evaluating candidates, yes.
+But it is also a system for helping Julien:
+
+- stop relying on friend-convincing
+- become legible to strong strangers
+- present himself as a serious operator with a real offer
+- make "joining this" feel like entering a serious process rather than doing him a favor
+
+If this layer is ignored, the tool risks becoming technically coherent but strategically weak.
+
 ---
 
 ## The natural roadmap order emerging from the docs
@@ -456,6 +507,13 @@ If the answer is the cofounder tool, the roadmap should start with:
 2. canonical questions
 3. canonical schema
 4. canonical Airtable/automation mapping
+
+And before even that, the spec should clearly encode four things from the external conversation:
+
+1. the tool exists to solve **team formation**
+2. the core move is **friends -> strangers**
+3. the first likely priority persona is the **pragmatic builder**
+4. the tool itself is meant to signal **execution credibility**
 
 If the answer is the public platform instead, we should stop and write a different research file, because the current repo has conflicting product assumptions there.
 

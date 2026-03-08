@@ -19,6 +19,13 @@ It is about answering, in a way that survives contact with real execution:
 
 If we do this right, the repo should stop feeling like "good ideas plus placeholders" and start feeling like one coherent product.
 
+Additional context from the earlier Perplexity conversation sharpens this further:
+
+- this tool exists because the real bottleneck is **team formation**, not funding
+- it should help Julien move from **convincing friends** to attracting **high-agency strangers**
+- transparency about what Julien brings and what he lacks is not a side note; it is part of the product
+- the tool itself should quietly prove that Julien can ship something serious with AI/no-code leverage
+
 ---
 
 ## End state for this plan
@@ -83,6 +90,7 @@ Not:
   - awkward outbound cofounder search
   - no serious inbound channel
   - no structured comparison beyond vibes
+  - too much gravitational pull toward recruiting friends as a safety mechanism
 - **Why:** If the problem statement is fuzzy, every later feature becomes easier to justify badly.
 - **Verification:** The problem statement names current pain, not future ambition.
 
@@ -92,8 +100,26 @@ Not:
 - **File:** `docs/spec.md`
 - **What to do:** Rewrite the goals section so one goal is clearly primary:
   - create a credible inbound cofounder-selection funnel
+  - specifically one that attracts strong strangers without requiring Julien to "sell" the idea person by person
 - **Why:** The current spec has good goals, but this round should force a ranked hierarchy.
 - **Verification:** There is one clearly dominant success goal and the rest read as support, not peers.
+
+### Task 3.5 — Define the founder value proposition explicitly
+
+- **Time box:** 3-4 minutes
+- **File:** `docs/spec.md`
+- **What to do:** Add or tighten a section that clearly states what Julien brings to the table:
+  - proven operator history
+  - existing profitable business
+  - real financial skin in the game / runway
+  - willingness to be CEO
+  - openness to pivot
+
+  And what he does not bring:
+  - deep coding skill
+  - a full founding team yet
+- **Why:** The external conversation makes clear this transparency is part of the actual product design, not just persuasive copy.
+- **Verification:** A strong candidate can quickly understand why Julien is worth taking seriously and where partnership is genuinely needed.
 
 ### Task 4 — Define success and failure explicitly
 
@@ -134,6 +160,10 @@ Not:
   If yes, make the distinction sharper. If no, narrow the scope now instead of pretending both are equally ready.
 - **Why:** Dual-track systems add complexity fast. This is a high-leverage scope decision.
 - **Verification:** The repo makes a clear statement about whether both tracks are in-scope for v1.
+
+  The external conversation suggests a likely default:
+  - **primary v1 focus:** pragmatic builder / technical cofounder
+  - **secondary or later:** community architect / ops
 
 ### Task 7 — Tighten the applicant journey
 
@@ -176,6 +206,11 @@ Not:
 - **What to do:** Add one sentence that can act as the canonical product promise across the repo.
 - **Why:** The project needs a stable sentence that other docs can inherit.
 - **Verification:** The same core sentence appears consistently in the spec and README without contradiction.
+
+  It should probably encode all three:
+  - serious founder-selection
+  - attraction of strong strangers
+  - explainable evaluation, not black-box hiring
 
 ---
 
@@ -302,10 +337,11 @@ Not:
 When you annotate this plan, focus on these:
 
 1. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
-2. **Are two role tracks really justified in v1, or is that too much too early?**
-3. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
-4. **What would make this feel serious to the right person and repellent to the wrong person?**
-5. **What part of the current architecture feels too heavy for the actual job the tool must do?**
+2. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
+3. **Are two role tracks really justified in v1, or is that too much too early?**
+4. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
+5. **What would make this feel serious to the right person and repellent to the wrong person?**
+6. **What part of the current architecture feels too heavy for the actual job the tool must do?**
 
 ---
 

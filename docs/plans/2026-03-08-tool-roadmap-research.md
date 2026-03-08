@@ -412,6 +412,103 @@ every serious role should probably be screened for:
 - ability to ship at 80%
 - ability to avoid perfectionism and AI-loop time waste
 
+### 9. Unbundle judgment from execution
+
+The newly added Perplexity research contributes a very strong team-design principle:
+
+> **unbundle judgment from execution**
+
+This maps well to the AI-native startup thesis already present in the repo.
+
+The practical interpretation is:
+
+- let AI + fast operators produce first drafts, reports, models, and routine outputs
+- pay experienced professionals for:
+  - strategic framing
+  - edge-case detection
+  - red-teaming
+  - stakeholder confidence
+  - compliance-sensitive review
+
+Not for:
+
+- spending 10 days creating something the team can generate in 10 minutes and then refine
+
+This suggests a default posture for expensive senior profiles:
+
+- **do not buy the whole bundle by default**
+- buy only the part that is still scarce
+
+For team design, this likely means:
+
+1. **core builders/operators** create
+2. **senior experts** audit, redirect, sign off, or lend credibility when needed
+
+This is especially relevant to the current finance discussion.
+
+The note strengthens the idea that a veteran finance person may be better framed as:
+
+- fractional advisor
+- board/advisory member
+- paid reviewer
+- occasional strategic red team
+
+rather than immediate full-time founding operator.
+
+### 10. Gravitas is real, but full-time gravitas may be too expensive
+
+The new research also sharpens another distinction:
+
+- **gravitas is useful**
+- **full-time gravitas may create drag**
+
+Why gravitas matters:
+
+- investors, banks, and institutions still respond to credible senior profiles
+- an experienced finance person can create trust and open conversations
+
+Why full-time embedding may be wrong:
+
+- it can slow an AI-native team to the pace of traditional executive workflows
+- it can create cultural friction if the veteran role is mostly benchmarking or second-guessing fast operators
+- it may force the startup to overpay for bundled execution it does not need
+
+This suggests a better default:
+
+- **rent gravitas**
+- do not necessarily employ it
+
+The Kaptain Finance search result reinforces that this is a real market pattern in Belgium:
+
+- externalized CFO services already exist
+- they are explicitly sold as part-time/fractional financial leadership rather than full-time internal hires
+
+That does not prove Kaptain Finance is the right fit.
+But it does confirm that the underlying model is normal and legible in the local market.
+
+### 11. Human-AI A/B testing should not become a speed tax
+
+Another useful idea from the research:
+
+running a senior human and AI in parallel on the same output may be intellectually interesting, but it can become a major velocity tax if the team waits for the slower control group.
+
+The better pattern is probably:
+
+1. AI/team produce baseline quickly
+2. senior human audits and stress-tests it
+3. lessons are captured about AI blind spots
+
+This preserves speed while still generating organizational learning about where human judgment adds value.
+
+For planning purposes, this means the startup may want:
+
+- **AI-first execution**
+- **human red-team review**
+
+not:
+
+- **two full production lanes running in parallel**
+
 ---
 
 ## The natural roadmap order emerging from the docs

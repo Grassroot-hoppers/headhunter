@@ -43,6 +43,13 @@ Additional context from the latest notes sharpens it again:
   - knows when 80% is enough
   - does not get trapped in hallucination loops or perfectionist last-mile waste
 
+The newest research adds one more strong operating principle:
+
+- expensive senior people should often be used as **editors / red-teamers / advisors**
+- not automatically as full-time creators of first-draft deliverables
+- the startup should try to **unbundle judgment from execution**
+- gravitas is useful, but may be best rented fractionally rather than bought full-time
+
 ---
 
 ## End state for this plan
@@ -149,6 +156,9 @@ Not:
 - **Why:** Not every needed function belongs in the same funnel.
 - **Verification:** It is obvious which profiles the cofounder tool should target directly and which should be sourced differently.
 
+  Add one more question for each role:
+  - is this person mainly needed to **create**, or mainly needed to **judge / audit / guide / signal credibility**?
+
 ### Task 0.5 — Define the universal team bar
 
 - **Time box:** 4 minutes
@@ -171,9 +181,37 @@ Not:
   2. Julien handles finance/admin directly at first, with on-demand consulting
   3. finance/admin ops is delegated later to a lighter-weight operator rather than a full CFO profile
 
+  Add a fourth lens to compare them:
+  - which parts require **judgment**
+  - which parts are mostly **execution**
+  - which parts require **certification / sign-off / credibility**
+
   The goal is not to decide compensation yet. The goal is to decide what kind of role this really is.
 - **Why:** This is the clearest concrete role ambiguity in the current planning.
 - **Verification:** The spec no longer uses "CFO" as shorthand for several unrelated needs.
+
+### Task 0.7 — Add the "judgment vs execution" test
+
+- **Time box:** 4-5 minutes
+- **File:** `docs/spec.md`
+- **What to do:** Add a short decision rule for role design:
+  - if AI + a high-agency operator can execute the deliverable fast, do not default to buying a senior full-time creator
+  - use senior people for audit, edge cases, sign-off, stakeholder confidence, and strategic correction
+- **Why:** This principle may become one of the core design rules of the whole team.
+- **Verification:** At least one current ambiguous role is clarified using this test.
+
+### Task 0.8 — Add the "red team, don't parallelize" rule
+
+- **Time box:** 3-4 minutes
+- **File:** `docs/spec.md`
+- **What to do:** Add a note that human-AI comparison should default to:
+  - AI/team baseline first
+  - senior human review second
+
+  Not:
+  - waiting for two full parallel production lanes unless there is a very specific reason
+- **Why:** This preserves speed while still learning where expert judgment matters.
+- **Verification:** The plan explicitly protects velocity from turning into a human-control-group bottleneck.
 
 ---
 
@@ -455,12 +493,14 @@ When you annotate this plan, focus on these:
 1. **What is the true minimum viable team?**
 2. **Which role is truly cofounder-critical first, and which roles are advisory or later?**
 3. **Is "CFO" actually one role here, or three different jobs wearing one label?**
-4. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
-5. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
-6. **Are two role tracks really justified in v1, or is that too much too early?**
-7. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
-8. **What would make this feel serious to the right person and repellent to the wrong person?**
-9. **What part of the current architecture feels too heavy for the actual job the tool must do?**
+4. **Which roles require creation, and which mostly require judgment, audit, or gravitas?**
+5. **Where should gravitas be rented fractionally instead of bought full-time?**
+6. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
+7. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
+8. **Are two role tracks really justified in v1, or is that too much too early?**
+9. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
+10. **What would make this feel serious to the right person and repellent to the wrong person?**
+11. **What part of the current architecture feels too heavy for the actual job the tool must do?**
 
 ---
 

@@ -483,8 +483,36 @@ The Kaptain Finance search result reinforces that this is a real market pattern 
 - externalized CFO services already exist
 - they are explicitly sold as part-time/fractional financial leadership rather than full-time internal hires
 
-That does not prove Kaptain Finance is the right fit.
-But it does confirm that the underlying model is normal and legible in the local market.
+More specifically, **Kaptain Finance should now be treated as a named decision branch in the planning**, not just as generic market evidence.
+
+Why:
+
+- Julien already has a real relationship/history here
+- the profile seems to combine:
+  - strategic finance experience
+  - startup/SME guidance
+  - externalized CFO framing
+- the likely value is not basic spreadsheet labor
+- the likely value is:
+  - judgment
+  - credibility
+  - financial structuring
+  - selective oversight
+
+So the planning question is no longer just:
+
+- "should we use a fractional finance model?"
+
+It is also:
+
+- "should **Kaptain Finance / Laureen** be the concrete embodiment of that model for this project?"
+
+That still does **not** mean "locked in as the final answer."
+But it **does** mean she should appear explicitly in the finance-role comparison as:
+
+1. a serious candidate for the **strategic finance advisor / board / fractional** branch
+2. not merely an abstract example
+3. probably **not** the default answer for routine finance-admin execution unless evidence says otherwise
 
 ### 11. Human-AI A/B testing should not become a speed tax
 

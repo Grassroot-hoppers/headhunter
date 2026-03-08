@@ -190,6 +190,26 @@ Not:
 - **Why:** This is the clearest concrete role ambiguity in the current planning.
 - **Verification:** The spec no longer uses "CFO" as shorthand for several unrelated needs.
 
+  Make this concrete by naming the current strongest candidate path:
+  - **Kaptain Finance / Laureen** as the real-world example of the strategic-finance-advisor branch
+
+  Explicitly test whether that path should mean:
+  1. hourly consulting only
+  2. fractional advisory relationship
+  3. symbolic board/advisory seat plus possible equity participation
+  4. not used for routine execution-heavy finance work
+
+### Task 0.6b — Add a named-candidate finance note
+
+- **Time box:** 3-4 minutes
+- **File:** `docs/spec.md`
+- **What to do:** Add a short note that Kaptain Finance is not just evidence of a model, but a concrete candidate to evaluate against the finance-role framework.
+- **Why:** This prevents the planning from staying too abstract when there is already a real person/company in view.
+- **Verification:** The spec names Kaptain Finance explicitly as a candidate path while still separating:
+  - model choice
+  - person choice
+  - compensation structure
+
 ### Task 0.7 — Add the "judgment vs execution" test
 
 - **Time box:** 4-5 minutes
@@ -495,12 +515,14 @@ When you annotate this plan, focus on these:
 3. **Is "CFO" actually one role here, or three different jobs wearing one label?**
 4. **Which roles require creation, and which mostly require judgment, audit, or gravitas?**
 5. **Where should gravitas be rented fractionally instead of bought full-time?**
-6. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
-7. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
-8. **Are two role tracks really justified in v1, or is that too much too early?**
-9. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
-10. **What would make this feel serious to the right person and repellent to the wrong person?**
-11. **What part of the current architecture feels too heavy for the actual job the tool must do?**
+6. **Should Kaptain Finance be treated as the concrete strategic-finance candidate path right now?**
+7. **If yes, is the right shape hourly advisor, fractional partner, or symbolic board/advisory seat with optional equity?**
+8. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
+9. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
+10. **Are two role tracks really justified in v1, or is that too much too early?**
+11. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
+12. **What would make this feel serious to the right person and repellent to the wrong person?**
+13. **What part of the current architecture feels too heavy for the actual job the tool must do?**
 
 ---
 

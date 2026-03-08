@@ -58,6 +58,14 @@ The latest founder correction sharpens the technical-cofounder target even furth
 - ideally someone with real product/career experience who feels this is their moment to cofound
 - someone who may lack runway, CEO drive, or founder-front energy, but does know how to turn demos into finished products
 
+The newest metaphor sharpens the complement even more:
+
+- Julien is an **early-game founder**
+- he excels at opening moves, map-shaping, leverage, optionality, and strategic repositioning
+- he loses energy as systems become dense, continuity-heavy, and operationally complex
+- the cofounder therefore needs to be unusually strong in the **mid/late game**
+- someone who enjoys real-time complexity, steady progression, information load, and the satisfaction of finishing something large
+
 ---
 
 ## End state for this plan
@@ -121,6 +129,10 @@ Not:
 - **Why:** The tool cannot be designed well if the founder offer is still blurry.
 - **Verification:** A stranger could read the section and understand what partnership with Julien actually means in practice.
 
+  Include this asymmetry explicitly:
+  - Julien as opener / map-maker / early-game optimizer
+  - weak point: continuity under growing complexity
+
 ### Task 0.2 — Decompose the team need into actual jobs
 
 - **Time box:** 5-7 minutes
@@ -152,6 +164,10 @@ Not:
   The current working hypothesis should be tested explicitly:
   - **core founding pair:** Julien + close-the-loop technical cofounder
   - **fractional shell:** finance advisor + freelance ops/admin support
+
+  Name the complement clearly:
+  - Julien handles opening pressure
+  - the technical cofounder handles much more of the product midgame / late game
 
 ### Task 0.4 — Classify each role by relationship type
 
@@ -188,6 +204,7 @@ Not:
   - evidence of **closure**
   - evidence of finishing
   - evidence of surviving the boring final 20%
+  - evidence of staying effective as complexity increases rather than dropping interest
 
 ### Task 0.6 — Explicitly resolve the finance question
 
@@ -270,6 +287,7 @@ Not:
   - a **technical closer**
   - a **product-finisher**
   - a partner who complements Julien's tendency to start faster than he closes
+  - someone who likes the game more as it gets heavier, not less
 
 ### Task 2 — Tighten the problem statement
 
@@ -375,6 +393,18 @@ Not:
 - **Why:** This is a much sharper complementarity hypothesis than "young AI genius."
 - **Verification:** The role description and questions screen for life-stage readiness, not just technical obsession.
 
+### Task 6.6 — Add a "midgame" filter for the CTO path
+
+- **Time box:** 4-5 minutes
+- **Files:** `docs/spec.md`, `product/questions/role_tracks.md`, `product/questions/question_bank.md`
+- **What to do:** Add language and questions that test whether the technical cofounder:
+  - likes working with a system after the novelty phase
+  - can handle growing complexity without freezing or fleeing
+  - enjoys maintaining momentum over long stretches
+  - prefers advancing the game over endlessly rethinking the opening
+- **Why:** This is the clearest metaphorical description so far of the actual complement Julien needs.
+- **Verification:** The role description no longer overweights opener energy and clearly screens for people who enjoy the mid/late game of product building.
+
 ### Task 7 — Tighten the applicant journey
 
 - **Time box:** 4 minutes
@@ -405,6 +435,7 @@ Not:
   - someone who closes
   - someone who finishes
   - someone who can help convert motion into completed product
+  - someone who remains energized once the system becomes large and complicated
 
 ### Task 9 — Clarify the intentional-friction philosophy
 
@@ -562,12 +593,13 @@ When you annotate this plan, focus on these:
 7. **If yes, is the right shape hourly advisor, fractional partner, or symbolic board/advisory seat with optional equity?**
 8. **Is the technical target now defined sharply enough as a close-the-loop product finisher, not just a prolific AI builder?**
 9. **Does the role description screen for real closure and finished products rather than repo count and hype?**
-10. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
-11. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
-12. **Are two role tracks really justified in v1, or is that too much too early?**
-13. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
-14. **What would make this feel serious to the right person and repellent to the wrong person?**
-15. **What part of the current architecture feels too heavy for the actual job the tool must do?**
+10. **Does it also screen for enjoyment of the mid/late game of complexity, not just excitement about the opening?**
+11. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
+12. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
+13. **Are two role tracks really justified in v1, or is that too much too early?**
+14. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
+15. **What would make this feel serious to the right person and repellent to the wrong person?**
+16. **What part of the current architecture feels too heavy for the actual job the tool must do?**
 
 ---
 

@@ -607,6 +607,70 @@ not just:
 - excitement
 - experimentation
 
+### 13. Early-game founder, late-game cofounder
+
+The latest metaphor from Julien is unusually useful because it turns a personality problem into a systems problem.
+
+The Paradox-style strategy-game pattern is:
+
+- Julien loves the opening:
+  - setting direction
+  - optimizing the starting position
+  - making many high-openness decisions
+  - pausing often to reshape the map
+- Julien tends to lose energy when the system becomes:
+  - large
+  - information-dense
+  - continuity-heavy
+  - reliant on long stretches of steady, orderly execution
+
+This gives a cleaner reading of the founder asymmetry we are looking for.
+
+Julien is likely:
+
+- strong in **early-game**
+- strong in opening moves, leverage creation, narrative, and strategic positioning
+- weaker in the **mid/late-game grind** of keeping a growing system coherent over time
+
+The ideal technical cofounder is likely the opposite, or at least much stronger there:
+
+- likes inheriting something substantial rather than inventing everything from zero
+- enjoys working with a lot of live information
+- can stay engaged as systems become denser and more complex
+- does not need constant novelty to remain motivated
+- can advance the game continuously instead of pausing forever for re-optimization
+- is willing to sit with the product for long enough to make it actually solid
+
+This is not just "high conscientiousness" in the abstract.
+It is a very specific taste for:
+
+- continuity
+- complexity under load
+- finishing
+- real-time operational calm
+- long-session execution
+
+The metaphor also suggests something important about recruitment language:
+
+the right person may not be excited by:
+
+- pure blank-page invention
+- constant pivots for their own sake
+- founder theater
+
+They may instead be excited by:
+
+- a clear map already partially drawn
+- meaningful product weight already on the table
+- the chance to turn strong opening moves into an actually durable system
+
+So the tool should probably test not only for "can you build?" but also for:
+
+- **do you enjoy the midgame?**
+- **do you like complexity once it becomes real?**
+- **can you remain energized after the novelty wears off?**
+- **have you ever stayed long enough to finish something substantial?**
+
 ---
 
 ## The natural roadmap order emerging from the docs

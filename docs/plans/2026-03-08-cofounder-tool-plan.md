@@ -1,7 +1,7 @@
-# Grassroot Hopper — Cofounder Tool Plan
+# Grassroot Hopper — Cofounder Tool + Team Design Plan
 
 *Date: 2026-03-08*  
-*Purpose: lock the cofounder tool's design, product spec, and architecture before any implementation work.*
+*Purpose: lock the founder reality, minimum viable team, and cofounder tool design before any implementation work.*
 
 ---
 
@@ -11,11 +11,13 @@ This planning round is **not** about building the funnel yet.
 
 It is about answering, in a way that survives contact with real execution:
 
-1. **What is this tool, exactly?**
-2. **What problem is it solving?**
-3. **Who is it for?**
-4. **What does success look like?**
-5. **What architecture is justified by that definition, and what is premature?**
+1. **What can Julien realistically provide himself?**
+2. **What does the minimum viable team actually need to contain?**
+3. **Which roles are core, which are advisory, and which belong later?**
+4. **What is the cofounder tool, exactly?**
+5. **What problem is it solving?**
+6. **What does success look like?**
+7. **What architecture is justified by that definition, and what is premature?**
 
 If we do this right, the repo should stop feeling like "good ideas plus placeholders" and start feeling like one coherent product.
 
@@ -26,12 +28,30 @@ Additional context from the earlier Perplexity conversation sharpens this furthe
 - transparency about what Julien brings and what he lacks is not a side note; it is part of the product
 - the tool itself should quietly prove that Julien can ship something serious with AI/no-code leverage
 
+Additional context from the latest notes sharpens it again:
+
+- the real planning problem is a **mix of multiple plans**, not just a funnel plan
+- before designing the funnel, we need a **founder reality map** and a **minimum viable team model**
+- "CFO" is likely being used to describe more than one job:
+  - strategic finance judgment / board-level advisory
+  - finance and admin operations
+  - grants / subsidies / incubator navigation
+- every serious role should be filtered through the same operating standard:
+  - high agency
+  - good judgment
+  - AI fluency
+  - knows when 80% is enough
+  - does not get trapped in hallucination loops or perfectionist last-mile waste
+
 ---
 
 ## End state for this plan
 
 When this plan is complete, these statements should all be true:
 
+- there is a clear written map of Julien's realistic contribution, strengths, weaknesses, and constraints
+- there is a clear written definition of the **minimum viable team**
+- each needed role is classified as **core founding role**, **advisor/board role**, **contractor/part-time support**, or **later**
 - `docs/spec.md` clearly defines the tool in its opening sections
 - `docs/spec.md` makes the goal, non-goals, and success criteria explicit
 - `docs/architecture.md` only describes architecture that serves the frozen spec
@@ -51,6 +71,7 @@ Do **not** drift into these yet:
 - building Airtable tables
 - drafting final prompts and JSON schemas
 - polishing UI copy beyond what is needed to define the product
+- making final compensation offers to specific people
 
 Those are next-step tasks. This round is for **definition first**.
 
@@ -60,11 +81,99 @@ Those are next-step tasks. This round is for **definition first**.
 
 The order here is intentional:
 
-**product definition -> success definition -> design boundaries -> architecture alignment -> repo alignment**
+**founder reality -> minimum viable team -> role prioritization -> tool definition -> success definition -> design boundaries -> architecture alignment -> repo alignment**
 
 Not:
 
 **tool choices -> implementation details -> backfilled product reasoning**
+
+---
+
+## Phase 0 — Define founder reality and minimum viable team
+
+### Task 0.1 — Write the founder contribution map
+
+- **Time box:** 5-8 minutes
+- **File:** `docs/spec.md`
+- **What to do:** Add a short section that states, plainly:
+  - what Julien can realistically provide now
+  - what he is unusually good at
+  - what he should not pretend to be
+  - where he has leverage
+  - where he is currently a bottleneck
+
+  Include both capability and energy constraints.
+- **Why:** The tool cannot be designed well if the founder offer is still blurry.
+- **Verification:** A stranger could read the section and understand what partnership with Julien actually means in practice.
+
+### Task 0.2 — Decompose the team need into actual jobs
+
+- **Time box:** 5-7 minutes
+- **Files:** `docs/spec.md`, `product/questions/role_tracks.md`
+- **What to do:** Split vague role labels into concrete jobs. Especially separate:
+  - strategic finance / judgment / board-level advisory
+  - finance-admin operations
+  - technical product building
+  - grants / subsidies / incubator relationship work
+  - community / events / operations
+
+  Avoid using one title to hide multiple jobs.
+- **Why:** "I need a CFO" may be true, but the current description mixes very different kinds of work and leverage.
+- **Verification:** Each role has a job description defined by outcomes, not prestige titles.
+
+### Task 0.3 — Define the minimum viable team
+
+- **Time box:** 5-8 minutes
+- **File:** `docs/spec.md`
+- **What to do:** Add a section that answers:
+  - what is the smallest team that can genuinely move Grassroot Hopper forward now
+  - which role is absolutely essential first
+  - which role is valuable but can be advisory
+  - which role can be covered by consulting or part-time help
+  - which role should wait until there is traction
+- **Why:** This is the upstream decision that tells us what the tool should optimize for.
+- **Verification:** The minimum viable team is small, believable, and clearly prioritized.
+
+### Task 0.4 — Classify each role by relationship type
+
+- **Time box:** 4-5 minutes
+- **File:** `docs/spec.md`
+- **What to do:** For each important role, classify it as one of:
+  - cofounder / founding team
+  - advisor / board member
+  - contractor / specialist
+  - part-time operator
+  - later-stage hire
+
+  Apply this to the finance function in particular.
+- **Why:** Not every needed function belongs in the same funnel.
+- **Verification:** It is obvious which profiles the cofounder tool should target directly and which should be sourced differently.
+
+### Task 0.5 — Define the universal team bar
+
+- **Time box:** 4 minutes
+- **Files:** `docs/spec.md`, `product/questions/role_tracks.md`
+- **What to do:** Add a short set of non-negotiable operating traits for all meaningful roles:
+  - high agency
+  - judgment under ambiguity
+  - AI leverage
+  - fast good-enough shipping
+  - ability to avoid hallucination loops and perfectionist waste
+- **Why:** This is one of the clearest new requirements from your note and should shape both role design and screening.
+- **Verification:** Every later role description inherits the same operating standard.
+
+### Task 0.6 — Explicitly resolve the finance question
+
+- **Time box:** 5 minutes
+- **File:** `docs/spec.md`
+- **What to do:** Add a planning note that tests three distinct possibilities:
+  1. strategic finance advisor with equity / board role
+  2. Julien handles finance/admin directly at first, with on-demand consulting
+  3. finance/admin ops is delegated later to a lighter-weight operator rather than a full CFO profile
+
+  The goal is not to decide compensation yet. The goal is to decide what kind of role this really is.
+- **Why:** This is the clearest concrete role ambiguity in the current planning.
+- **Verification:** The spec no longer uses "CFO" as shorthand for several unrelated needs.
 
 ---
 
@@ -121,6 +230,8 @@ Not:
 - **Why:** The external conversation makes clear this transparency is part of the actual product design, not just persuasive copy.
 - **Verification:** A strong candidate can quickly understand why Julien is worth taking seriously and where partnership is genuinely needed.
 
+  This should now be written against the founder contribution map from Phase 0, not from intuition alone.
+
 ### Task 4 — Define success and failure explicitly
 
 - **Time box:** 4-5 minutes
@@ -165,6 +276,9 @@ Not:
   - **primary v1 focus:** pragmatic builder / technical cofounder
   - **secondary or later:** community architect / ops
 
+  The latest note adds a second filter:
+  - some roles may belong **outside** the cofounder funnel entirely because they are advisory or support, not founding roles
+
 ### Task 7 — Tighten the applicant journey
 
 - **Time box:** 4 minutes
@@ -188,6 +302,8 @@ Not:
   - structured status movement
 - **Why:** The product only works if it creates founder leverage, not just candidate polish.
 - **Verification:** The founder journey makes the operational win obvious.
+
+  It should also make clear which kinds of people Julien should **not** be using the tool for.
 
 ### Task 9 — Clarify the intentional-friction philosophy
 
@@ -336,12 +452,15 @@ Not:
 
 When you annotate this plan, focus on these:
 
-1. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
-2. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
-3. **Are two role tracks really justified in v1, or is that too much too early?**
-4. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
-5. **What would make this feel serious to the right person and repellent to the wrong person?**
-6. **What part of the current architecture feels too heavy for the actual job the tool must do?**
+1. **What is the true minimum viable team?**
+2. **Which role is truly cofounder-critical first, and which roles are advisory or later?**
+3. **Is "CFO" actually one role here, or three different jobs wearing one label?**
+4. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
+5. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
+6. **Are two role tracks really justified in v1, or is that too much too early?**
+7. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
+8. **What would make this feel serious to the right person and repellent to the wrong person?**
+9. **What part of the current architecture feels too heavy for the actual job the tool must do?**
 
 ---
 
@@ -349,12 +468,15 @@ When you annotate this plan, focus on these:
 
 The order I recommend is:
 
-1. define the tool more sharply
-2. define success and failure more sharply
-3. tighten the user journeys and role scope
-4. align architecture to that frozen product
-5. align repo entrypoints
-6. review the whole thing once before any build planning
+1. define Julien's real contribution and constraints
+2. define the minimum viable team
+3. classify roles into founder / advisor / support / later
+4. define the tool more sharply
+5. define success and failure more sharply
+6. tighten the user journeys and role scope
+7. align architecture to that frozen product
+8. align repo entrypoints
+9. review the whole thing once before any build planning
 
 That is the smallest path that gives us a real product definition instead of a promising scaffold.
 

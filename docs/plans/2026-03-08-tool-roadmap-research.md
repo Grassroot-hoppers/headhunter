@@ -368,6 +368,50 @@ But it is also a system for helping Julien:
 
 If this layer is ignored, the tool risks becoming technically coherent but strategically weak.
 
+### 8. The funnel is downstream of a team-design decision
+
+The latest planning note adds another important correction:
+
+before the cofounder tool can be designed well, the project needs a clearer answer to:
+
+- what Julien can realistically contribute himself
+- what the **minimum viable team** actually is
+- which roles are true founding roles
+- which roles are advisory
+- which roles are support / operations / later
+
+This matters because the tool should not be asked to solve every staffing need.
+
+For example, the current "CFO" discussion appears to mix at least three different needs:
+
+1. **strategic finance judgment**  
+   Example: startup/co-op/social-project experience, board-level advice, capital strategy, subsidy logic
+
+2. **finance/admin operations**  
+   Example: invoices, tax coordination, accountant interface, routine administration
+
+3. **grants/incubator/funding process work**  
+   Example: subsidy applications, grant writing support, incubator relationships
+
+Those are not automatically the same role.
+
+This implies a better planning order:
+
+1. founder reality map
+2. minimum viable team
+3. role classification
+4. cofounder tool scope
+
+It also adds a cross-role requirement that was not explicit enough before:
+
+every serious role should probably be screened for:
+
+- high agency
+- judgment
+- AI fluency
+- ability to ship at 80%
+- ability to avoid perfectionism and AI-loop time waste
+
 ---
 
 ## The natural roadmap order emerging from the docs

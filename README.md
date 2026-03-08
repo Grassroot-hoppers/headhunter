@@ -1,6 +1,6 @@
 # Grassroot Hopper — Cofounder Headhunter Tool
 
-A no-code-first inbound application funnel for finding the right technical cofounder or early founding teammate for Grassroot Hopper.
+A no-code-first inbound application funnel for finding the right close-the-loop technical cofounder or early founding teammate for Grassroot Hopper.
 
 This starter keeps two things true at once:
 
@@ -35,6 +35,7 @@ automation/
 - Transparent about what Julien brings and where he needs help
 - Advisory scoring, not machine-made truth
 - High-agency signal over polished self-presentation
+- Finished-product evidence over repo-count theater
 - No-code MVP first, light-code upgrade path later
 - GDPR-aware from day one
 

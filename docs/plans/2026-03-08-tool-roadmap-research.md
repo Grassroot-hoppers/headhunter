@@ -537,6 +537,76 @@ not:
 
 - **two full production lanes running in parallel**
 
+### 12. The technical cofounder profile has sharpened
+
+The latest founder note materially improves the target profile for the technical cofounder.
+
+Important correction:
+
+- high repo count and nonstop AI experimentation are **not enough**
+- Julien explicitly identified his own blind spot as:
+  - shipping many things
+  - finishing too few of them
+
+That means the real counterpart is not just:
+
+- AI-native
+- obsessed
+- high-agency
+
+It is also:
+
+- **close-the-loop oriented**
+- has **finished products**, not just prototypes
+- understands the boring final 20% that turns a demo into a usable thing
+- knows how to stabilize, polish, simplify, and ship
+
+This changes the technical profile from:
+
+- "maniac builder with lots to prove"
+
+to:
+
+- **product-closing builder with strong finish discipline**
+
+The latest note also adds a useful life-stage filter.
+
+The ideal technical cofounder may be:
+
+- someone with a real career behind them
+- someone who has built enough to know what "finished" means
+- someone who now recognizes this is their moment to cofound
+- someone who lacks founder runway, CEO energy, or business-driving force
+
+This is highly complementary to Julien.
+
+Julien brings:
+
+- CEO energy
+- conviction
+- operator drive
+- willingness to push externally
+
+The technical cofounder should bring:
+
+- closure
+- technical product maturity
+- build-to-finish discipline
+- less need to invent the company story alone
+
+This suggests the cofounder tool should test for:
+
+- evidence of shipping beyond MVP theater
+- examples of maintenance, iteration, polishing, or launch completion
+- ability to finish boring work
+- ability to turn many possibilities into one completed outcome
+
+not just:
+
+- velocity
+- excitement
+- experimentation
+
 ---
 
 ## The natural roadmap order emerging from the docs

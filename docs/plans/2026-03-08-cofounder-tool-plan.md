@@ -50,6 +50,14 @@ The newest research adds one more strong operating principle:
 - the startup should try to **unbundle judgment from execution**
 - gravitas is useful, but may be best rented fractionally rather than bought full-time
 
+The latest founder correction sharpens the technical-cofounder target even further:
+
+- Julien's blind spot is **starting and shipping many things without reliably finishing them**
+- so the core technical need is **not** just AI intensity or experimentation
+- it is a **close-the-loop CTO / product-finisher**
+- ideally someone with real product/career experience who feels this is their moment to cofound
+- someone who may lack runway, CEO drive, or founder-front energy, but does know how to turn demos into finished products
+
 ---
 
 ## End state for this plan
@@ -141,6 +149,10 @@ Not:
 - **Why:** This is the upstream decision that tells us what the tool should optimize for.
 - **Verification:** The minimum viable team is small, believable, and clearly prioritized.
 
+  The current working hypothesis should be tested explicitly:
+  - **core founding pair:** Julien + close-the-loop technical cofounder
+  - **fractional shell:** finance advisor + freelance ops/admin support
+
 ### Task 0.4 — Classify each role by relationship type
 
 - **Time box:** 4-5 minutes
@@ -171,6 +183,11 @@ Not:
   - ability to avoid hallucination loops and perfectionist waste
 - **Why:** This is one of the clearest new requirements from your note and should shape both role design and screening.
 - **Verification:** Every later role description inherits the same operating standard.
+
+  Add one more filter for the technical cofounder role specifically:
+  - evidence of **closure**
+  - evidence of finishing
+  - evidence of surviving the boring final 20%
 
 ### Task 0.6 — Explicitly resolve the finance question
 
@@ -248,6 +265,11 @@ Not:
   - why Grassroot Hopper needs it now
 - **Why:** Right now the spec is strong, but still broad enough that it can drift toward "smart recruiting system" instead of "serious founder-selection funnel."
 - **Verification:** A reader can answer "what is this?" after reading only the title, one-paragraph summary, and problem statement.
+
+  The wording should now reflect that the main target is not just "technical cofounder" in the abstract, but:
+  - a **technical closer**
+  - a **product-finisher**
+  - a partner who complements Julien's tendency to start faster than he closes
 
 ### Task 2 — Tighten the problem statement
 
@@ -337,6 +359,22 @@ Not:
   The latest note adds a second filter:
   - some roles may belong **outside** the cofounder funnel entirely because they are advisory or support, not founding roles
 
+  And it sharpens the technical persona itself:
+  - not just "AI guy shipping constantly"
+  - but "builder who has actually finished products and knows closure"
+
+### Task 6.5 — Add a career-stage filter for the CTO path
+
+- **Time box:** 3-4 minutes
+- **Files:** `docs/spec.md`, `product/questions/role_tracks.md`, `product/questions/question_bank.md`
+- **What to do:** Add a note that the ideal technical cofounder may be:
+  - experienced enough to know what finished looks like
+  - early enough in founder journey to still be hungry
+  - lacking CEO energy, runway, or front-person drive
+  - now ready to cofound because timing finally makes sense
+- **Why:** This is a much sharper complementarity hypothesis than "young AI genius."
+- **Verification:** The role description and questions screen for life-stage readiness, not just technical obsession.
+
 ### Task 7 — Tighten the applicant journey
 
 - **Time box:** 4 minutes
@@ -362,6 +400,11 @@ Not:
 - **Verification:** The founder journey makes the operational win obvious.
 
   It should also make clear which kinds of people Julien should **not** be using the tool for.
+
+  It should also make clear that Julien is specifically trying to find a counterpart for his own blind spot:
+  - someone who closes
+  - someone who finishes
+  - someone who can help convert motion into completed product
 
 ### Task 9 — Clarify the intentional-friction philosophy
 
@@ -517,12 +560,14 @@ When you annotate this plan, focus on these:
 5. **Where should gravitas be rented fractionally instead of bought full-time?**
 6. **Should Kaptain Finance be treated as the concrete strategic-finance candidate path right now?**
 7. **If yes, is the right shape hourly advisor, fractional partner, or symbolic board/advisory seat with optional equity?**
-8. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
-9. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
-10. **Are two role tracks really justified in v1, or is that too much too early?**
-11. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
-12. **What would make this feel serious to the right person and repellent to the wrong person?**
-13. **What part of the current architecture feels too heavy for the actual job the tool must do?**
+8. **Is the technical target now defined sharply enough as a close-the-loop product finisher, not just a prolific AI builder?**
+9. **Does the role description screen for real closure and finished products rather than repo count and hype?**
+10. **Is this actually a cofounder-selection tool, or is it still drifting toward recruiting software?**
+11. **Is the deeper job of the product clear enough: moving from friend-convincing to stranger-attraction?**
+12. **Are two role tracks really justified in v1, or is that too much too early?**
+13. **What is the one success signal you care about most: quality of applicants, review speed, or one real high-fit collaborator?**
+14. **What would make this feel serious to the right person and repellent to the wrong person?**
+15. **What part of the current architecture feels too heavy for the actual job the tool must do?**
 
 ---
 

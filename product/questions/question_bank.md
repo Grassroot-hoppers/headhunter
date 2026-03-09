@@ -14,7 +14,7 @@ This file mirrors the current product spec and marks what is:
 
 The most important correction in the current version is this:
 
-for the CTO path, the tool should screen for **closure** and **finished-product evidence**, not just prototype energy.
+for the CTO path, the tool should screen for **closure**, **finished-product evidence**, and **senior technical ownership**, not just prototype energy.
 
 ## Core questions
 
@@ -74,6 +74,10 @@ for the CTO path, the tool should screen for **closure** and **finished-product 
 
 16-B. **Describe a product or system that became more complex over time. What did you do to keep it coherent once the novelty wore off?**
 
+17-B. **Tell me about a senior technical decision you owned that affected other builders or the product direction. How did you make the call, and how did you get people aligned?**
+
+18-B. **If Grassroot Hopper had three developers in a year, what kind of CTO would you be for them?**
+
 ### What these CTO questions are trying to catch
 
 - close-the-loop behavior
@@ -81,6 +85,9 @@ for the CTO path, the tool should screen for **closure** and **finished-product 
 - comfort with complexity as it grows
 - willingness to stay after the opening
 - real product maturity instead of repo-count theater
+- technical ownership
+- leadership potential
+- ability to make senior calls without waiting to be managed
 
 ## Community / Ops track questions
 
@@ -99,6 +106,8 @@ for the CTO path, the tool should screen for **closure** and **finished-product 
 - What does "finished enough to matter" mean to you?
 - When does your perfectionism help, and when does it waste time?
 - What kind of founder makes it easier for you to do your best work?
+- Tell me about a time you had to choose between technical elegance and shipping pressure for a team, not just for yourself.
+- What kind of developer do you enjoy leading, and what kind do you struggle to manage?
 
 ### Community / Ops follow-ups
 

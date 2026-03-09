@@ -31,7 +31,7 @@ It should make clear that:
 
 This is not a vanity form and it is not a generic hiring workflow.
 
-The current priority is finding a close-the-loop technical cofounder: someone who can turn strong opening moves into finished products people can actually rely on.
+The current priority is finding a close-the-loop technical cofounder: someone who can turn strong opening moves into finished products people can actually rely on, make senior technical calls, and eventually lead developers.
 
 The form takes roughly **20-30 minutes** if you answer seriously.
 
@@ -134,7 +134,7 @@ Helper: This is partly about leverage and partly about taste.
 
 ### Section intro
 
-For this track, the key question is not just "can you build?" It is: **do you close loops?**
+For this track, the key question is not just "can you build?" It is: **do you close loops, own technical direction, and act like a future CTO rather than just a strong developer?**
 
 ### Fields
 
@@ -149,6 +149,12 @@ Helper: This is one of the most important questions in the form.
 
 **Describe a product or system that became more complex over time. What did you do to keep it coherent once the novelty wore off?**  
 Helper: We are looking for product maturity under load.
+
+**Tell me about a senior technical decision you owned that affected other builders or the product direction. How did you make the call, and how did you get people aligned?**  
+Helper: This is about technical judgment and leadership, not just personal preference.
+
+**If Grassroot Hopper had three developers in a year, what kind of CTO would you be for them?**  
+Helper: We are looking for technical ownership and management instinct, not just coding strength.
 
 ## Community / Ops Architect track section
 

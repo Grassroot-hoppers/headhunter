@@ -8,7 +8,7 @@
 
 ## 1. Product in one paragraph
 
-Grassroot Hopper needs a better way to find the right founding teammates than awkward outbound networking, friend-recruiting, or vague "let's grab coffee" conversations. This tool creates an inbound application funnel that feels selective, transparent, and thoughtful. Its primary job is to help Julien find the kind of technical cofounder he does not naturally produce himself: a close-the-loop builder who can turn strong opening moves into finished products. Candidates choose a role track, answer hard questions that reveal how they think and what they have actually done, and receive a clear expectation of next steps. Julien gets a defensible shortlist with explainable reasons, evidence snippets, and interview prompts rather than vibes.
+Grassroot Hopper needs a better way to find the right founding teammates than awkward outbound networking, friend-recruiting, or vague "let's grab coffee" conversations. This tool creates an inbound application funnel that feels selective, transparent, and thoughtful. Its primary job is to help Julien find the kind of technical cofounder he does not naturally produce himself: a close-the-loop builder and CTO-level partner who can turn strong opening moves into finished products, make senior technical calls, and eventually lead developers rather than simply act as one more developer. Candidates choose a role track, answer hard questions that reveal how they think and what they have actually done, and receive a clear expectation of next steps. Julien gets a defensible shortlist with explainable reasons, evidence snippets, and interview prompts rather than vibes.
 
 This is not a generic hiring tool. It is for selecting a cofounder or founding team member.
 
@@ -18,7 +18,7 @@ This is not a generic hiring tool. It is for selecting a cofounder or founding t
 
 ### Current bottleneck
 
-Julien has vision, operator credibility, personal runway, and willingness to lead, but not yet the technical or founding-team counterpart needed to build fast with confidence. More specifically: Julien is unusually strong at opening moves, direction-setting, and strategic repositioning, but weaker at the long, orderly, continuity-heavy work of finishing dense systems once the novelty wears off. The current pattern is familiar and inefficient:
+Julien has vision, operator credibility, personal runway, and willingness to lead, but not yet the technical or founding-team counterpart needed to build fast with confidence. More specifically: Julien is unusually strong at opening moves, direction-setting, and strategic repositioning, but weaker at the long, orderly, continuity-heavy work of finishing dense systems once the novelty wears off. He also does not need a technical person he must manage directly. He needs a true counterpart who can own senior technical direction. The current pattern is familiar and inefficient:
 
 - outbound conversations feel socially awkward
 - recruiting friends is safer emotionally, but narrows the pool
@@ -32,6 +32,7 @@ The tool should:
 - turn cofounder search into an inbound pipeline
 - attract high-agency strangers who like hard, early-stage work
 - attract technical people who enjoy finishing, stabilizing, and shipping under real complexity
+- attract technical leaders who can make senior decisions without needing to be managed by Julien
 - repel low-fit candidates who need convincing
 - demonstrate Grassroot Hopper's own ability to ship useful AI/no-code systems quickly
 
@@ -45,6 +46,7 @@ The tool should:
 - Make serious candidates feel this is selective, not casual networking
 - Produce explainable shortlist recommendations, not black-box scores
 - Surface high-agency, pragmatic, low-ego builders who actually finish things
+- Surface senior technical counterparts who can own architecture, product-shaping decisions, and later developer leadership
 - Stay shippable by one founder using no-code tools in days or weeks
 
 ### Secondary goals
@@ -103,17 +105,18 @@ Julien does **not** currently bring:
 - deep coding skill
 - a strong instinct for finishing dense technical systems once they become heavy
 - unlimited appetite for the long, orderly mid/late game of product building
+- a desire to directly manage a technical person who should really be making senior technical calls themselves
 
 This asymmetry is central to the product.
 
-The tool is not just looking for "someone technical." It is looking for a counterpart to Julien's blind spot.
+The tool is not just looking for "someone technical." It is looking for a counterpart to Julien's blind spot and a real CTO-level partner.
 
 ### Minimum viable team
 
 The current working hypothesis for the minimum viable team is:
 
 1. **Julien** — founder / CEO / operator / recruiter / external pressure
-2. **Technical cofounder** — close-the-loop builder, product finisher, technical product owner
+2. **Technical cofounder** — close-the-loop builder, product finisher, technical product owner, and future CTO who can lead developers
 3. **Freelance ops/admin support** — admin, grants, communication, process follow-through
 4. **Fractional finance/advisory support** — strategic review, credibility, selective oversight
 
@@ -167,7 +170,7 @@ The current strongest named candidate path for the first branch is **Kaptain Fin
 
 | Role track | Who it is for | What matters most |
 |---|---|---|
-| **CTO / Pragmatic Builder** | technical cofounder, product finisher, AI-native builder who knows how to close loops and ship real products | high agency, closure, execution, ambiguity comfort, technical leverage, communication |
+| **CTO / Pragmatic Builder** | technical cofounder, product finisher, and CTO-level builder who knows how to close loops, make senior technical calls, and eventually lead developers | high agency, closure, execution, ambiguity comfort, technical leverage, leadership, communication |
 | **Community / Ops Architect** | workshop runner, event/community builder, operator who can mobilize humans | high agency, communication, orchestration, execution, ambiguity comfort |
 
 **Current working priority:** the primary v1 target is the technical cofounder track. The Community / Ops track remains useful, but may be secondary or later if it adds too much scope too early.
@@ -181,7 +184,7 @@ The current strongest named candidate path for the first branch is **Kaptain Fin
 1. Candidate lands on the page from a link, post, intro, or search result
 2. Reads a transparent case for why Grassroot Hopper exists and why Julien is applying pressure now
 3. Sees what Julien brings: runway, operator track record, CEO willingness, openness to pivot, and early-stage pressure
-4. Sees what Julien lacks: not just deep technical building ability, but a close-the-loop technical partner who likes the dense middle and end of product building
+4. Sees what Julien lacks: not just deep technical building ability, but a close-the-loop technical partner who likes the dense middle and end of product building and can own technical direction without being managed
 5. Selects a role track
 6. Completes the application, including concrete examples and consent
 7. Sees a serious completion screen with timeline and next steps
@@ -203,7 +206,7 @@ The current strongest named candidate path for the first branch is **Kaptain Fin
 
 | Page | Purpose | MVP requirements |
 |---|---|---|
-| **Landing page** | Explain the mission and attract the right people while repelling the wrong ones | founder transparency, role tracks, what Grassroot Hopper is, what stage it is at, why apply now, clear founder asymmetry, CTA |
+| **Landing page** | Explain the mission and attract the right people while repelling the wrong ones | founder transparency, role tracks, what Grassroot Hopper is, what stage it is at, why apply now, clear founder asymmetry, CTO-level expectation, CTA |
 | **Application form** | Capture structured evidence, not just enthusiasm | role track selector, narrative questions, short Big Five self-report, commitment questions, links, consent |
 | **Completion page** | Set expectations and reduce ambiguity | timeline, response promise, what review looks like, no-filler tone |
 | **Founder dashboard** | Turn submissions into decisions | applicant list, status, scores, confidence, notes, evidence, shortlist filter |
@@ -272,9 +275,10 @@ Low-agency people should feel, "this is too much work." Good.
 | FR13 | Candidate can request deletion of their data | Yes |
 | FR14 | Role-track-specific weighting applies in scoring | Yes |
 | FR15 | CTO path screens explicitly for closure and finished-product evidence | Yes |
-| FR16 | Follow-up task workflow exists | Later |
-| FR17 | Applicant portal for status tracking | Later |
-| FR18 | Multi-reviewer scoring and calibration views | Later |
+| FR16 | CTO path screens for senior technical judgment and leadership potential, not just individual output | Yes |
+| FR17 | Follow-up task workflow exists | Later |
+| FR18 | Applicant portal for status tracking | Later |
+| FR19 | Multi-reviewer scoring and calibration views | Later |
 
 ---
 
@@ -291,6 +295,7 @@ Low-agency people should feel, "this is too much work." Good.
 | Portability | MVP data structure should map cleanly to Postgres later |
 | Bias control | Big Five and inferred signals must be contextual, not deterministic filters |
 | Fit accuracy | The tool should distinguish prototype energy from real closure ability |
+| Seniority fit | The tool should distinguish strong senior technical counterparts from strong individual contributors who still need management |
 
 ---
 
@@ -323,6 +328,8 @@ Low-agency people should feel, "this is too much work." Good.
 | Q14-B | When have you built with unclear requirements and missing resources, but still produced something useful and carried it far enough that other people could rely on it? | agency, ambiguity comfort, execution, finish discipline |
 | Q15-B | Tell me about a time the exciting prototype phase was over and the work became slower, denser, or more boring. How did you keep moving until it was done? | closure, conscientiousness, midgame stamina |
 | Q16-B | Describe a product or system that became more complex over time. What did you do to keep it coherent once the novelty wore off? | complexity handling, continuity, product maturity |
+| Q17-B | Tell me about a senior technical decision you owned that affected other builders or the product direction. How did you make the call, and how did you get people aligned? | technical judgment, leadership, decision-making |
+| Q18-B | If Grassroot Hopper had three developers in a year, what kind of CTO would you be for them? | leadership style, team management, founder complement |
 
 ### Community / Ops Architect track
 
@@ -367,11 +374,23 @@ Use a short, non-clinical 1-5 agreement scale. Label results as **self-report co
 6. Founder complementarity
 7. Commitment and risk alignment
 8. Track-specific capability
+9. Leadership potential
 
 ### Contextual, lightly weighted or unweighted dimensions
 
-9. Big Five self-report summary
-10. Big Five inferred signals from narrative answers
+10. Big Five self-report summary
+11. Big Five inferred signals from narrative answers
+
+### Leadership potential
+
+| Score | Observable anchor |
+|---|---|
+| 0 | No evidence of owning decisions beyond personal execution |
+| 1 | Some informal leadership language, but little proof of direction-setting or influence |
+| 2 | Has guided small efforts, but leadership remains narrow or reactive |
+| 3 | Can make technical calls, create clarity for others, and carry visible ownership |
+| 4 | Strong evidence of senior technical judgment, alignment-building, and calm decision-making under pressure |
+| 5 | Repeated pattern of turning technical chaos into usable direction for other builders; clearly capable of future CTO-level leadership |
 
 Big Five should shape interview questions, not auto-reject people.
 
@@ -441,7 +460,7 @@ Big Five should shape interview questions, not auto-reject people.
 | 2 | Partial fit, but major mismatch on expectations or working model |
 | 3 | Reasonable complement to Julien's operator/CEO profile |
 | 4 | Strong complement; clearly fills real gaps without power confusion |
-| 5 | Exceptional complementarity; sees the partnership shape clearly and constructively |
+| 5 | Exceptional complementarity; sees the partnership shape clearly, including CTO-level ownership without needing Julien to manage them technically |
 
 ### Commitment and risk alignment
 
@@ -465,7 +484,7 @@ Big Five should shape interview questions, not auto-reject people.
 | 2 | Has built things, but unclear depth, practicality, or finish discipline |
 | 3 | Can build useful MVP systems quickly with pragmatic trade-offs |
 | 4 | Strong leverage across prototyping, integrations, automation, technical judgment, and shipping systems that other people can use |
-| 5 | Exceptional practical builder with product sense, finish discipline, and the ability to keep products coherent as they become denser and more complex |
+| 5 | Exceptional practical builder with product sense, finish discipline, senior technical judgment, and the ability to keep products coherent as they become denser and more complex |
 
 #### Community / Ops Architect
 
@@ -491,6 +510,7 @@ Big Five should shape interview questions, not auto-reject people.
 | Communication quality | 10% |
 | Collaboration: low ego + useful challenge | 10% |
 | Commitment and risk alignment | 5% |
+| Leadership potential | shown separately, lightly weighted in judgment |
 | Founder complementarity | advisory, shown separately |
 | Big Five self-report + inferred signals | context only |
 
@@ -645,7 +665,7 @@ Each applicant record should produce:
 
 For serious candidates, use a short, bounded, real piece of work:
 
-- CTO track: prototype, automation, technical teardown, architecture exercise, or "finish this messy thing" exercise
+- CTO track: prototype, automation, technical teardown, architecture exercise, "finish this messy thing" exercise, or technical prioritization / leadership scenario
 - Community/Ops track: event system design, outreach plan, workshop flow, or operating cadence proposal
 
 If the work is non-trivial, pay for it.
@@ -698,7 +718,7 @@ If the work is non-trivial, pay for it.
 
 ## 19.1 Landing page sample
 
-> Grassroot Hopper is early. There is no polished company machine here yet. What there is: a founder with runway, operator experience, and the willingness to be CEO for real. What is missing is the right technical cofounder who does not just love openings, but likes the dense middle and end of product building too — someone who can help turn motion into finished product.
+> Grassroot Hopper is early. There is no polished company machine here yet. What there is: a founder with runway, operator experience, and the willingness to be CEO for real. What is missing is the right technical cofounder who does not just love openings, but likes the dense middle and end of product building too — someone who can help turn motion into finished product, make senior technical calls, and eventually lead developers.
 >
 > If you need certainty, this is not for you. If you create options, finish what matters, and want to build something human-sized and meaningful, apply.
 

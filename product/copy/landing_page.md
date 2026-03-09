@@ -24,7 +24,7 @@ The current emphasis is the **CTO / Pragmatic Builder** track.
 
 ### Subheadline
 
-Grassroot Hopper does not need another idea guy, another AI tourist, or another repo collector. Julien needs a close-the-loop technical cofounder who can turn strong opening moves into finished products people can actually use.
+Grassroot Hopper does not need another idea guy, another AI tourist, or another repo collector. Julien needs a close-the-loop technical cofounder who can turn strong opening moves into finished products people can actually use, make senior technical calls, and eventually lead developers.
 
 ### CTA
 
@@ -44,7 +44,7 @@ Current review priority is the technical cofounder path. Community / Ops may fol
 
 This is not a generic job application and it is not a networking form pretending to be one.
 
-Grassroot Hopper is early. Julien brings operator credibility, real skin in the game, willingness to be CEO, and the energy to push something into existence. What is missing is a technical counterpart who does not just love prototypes and new tools, but likes the dense middle and end of product building too.
+Grassroot Hopper is early. Julien brings operator credibility, real skin in the game, willingness to be CEO, and the energy to push something into existence. What is missing is a technical counterpart who does not just love prototypes and new tools, but likes the dense middle and end of product building too — and is senior enough to own technical direction rather than wait to be managed.
 
 If you have a real relationship with product closure — if you know how to take something messy, promising, and half-finished and keep going until it becomes real — this is probably for you.
 
@@ -91,6 +91,8 @@ More specifically:
 - someone who stays calm as complexity grows
 - someone who does not need endless novelty to stay engaged
 - someone who can turn movement into product
+- someone who can make senior technical calls
+- someone who can eventually manage and shape a development team
 
 ### Plainly
 
@@ -109,6 +111,8 @@ A technical cofounder who:
 - knows how to survive the boring final 20%
 - can keep a system coherent once it gets denser
 - can challenge Julien without ego theater
+- can own architecture and technical prioritization
+- can grow into a real CTO role, not just stay a prolific developer
 
 This person may already have a real career behind them and may be at the exact moment where cofounding finally makes sense.
 
@@ -124,6 +128,7 @@ You should apply if this sounds like you:
 - you enjoy turning messy momentum into something stable
 - you like AI as leverage, not as a substitute for judgment
 - you want to cofound, not consult from the sidelines
+- you are senior enough to own technical direction
 
 ## Who should not apply
 
@@ -135,6 +140,7 @@ This is probably not for you if:
 - you want title, status, or certainty more than real responsibility
 - you need to be convinced to care
 - you are looking for a normal hiring process
+- you want to code, but not to make senior calls or lead others
 
 ### Hard version
 

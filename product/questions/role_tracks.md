@@ -33,11 +33,11 @@ Every serious role should be screened for:
 
 **What this role is**
 
-A technical cofounder who does not just prototype fast, but knows how to close loops, survive the boring final 20%, and turn messy product motion into something real people can use.
+A technical cofounder who does not just prototype fast, but knows how to close loops, survive the boring final 20%, turn messy product motion into something real people can use, and make CTO-level calls without needing Julien to manage them technically.
 
 **Founder complement**
 
-Julien is strong at the opening: pressure, positioning, optionality, direction, and narrative. This role is strong in the mid/late game: continuity, technical product maturity, stabilization, and finishing.
+Julien is strong at the opening: pressure, positioning, optionality, direction, and narrative. This role is strong in the mid/late game: continuity, technical product maturity, stabilization, finishing, and technical leadership.
 
 **Ideal signals**
 
@@ -46,6 +46,8 @@ Julien is strong at the opening: pressure, positioning, optionality, direction, 
 - likes making systems coherent after the novelty phase
 - comfortable with AI-native building, but not intoxicated by tools for their own sake
 - can challenge Julien without ego theater
+- can make senior technical decisions and get alignment from other builders
+- can grow into leading a small development team rather than staying only an individual contributor
 
 **Anti-signals**
 
@@ -53,14 +55,18 @@ Julien is strong at the opening: pressure, positioning, optionality, direction, 
 - excitement about novelty, weak appetite for maintenance
 - wants to invent forever, resists simplifying and shipping
 - needs a founder to constantly manage their execution discipline
+- strong engineer, weak technical owner
+- wants to code, but not to own direction or lead others
 
 **Example titles**
 
 - Technical Cofounder
+- CTO
 - Founding Engineer
 - Product Engineer
 - AI Systems Builder
 - Technical Product Lead
+- Engineering Lead
 
 ### Community / Ops Architect
 
